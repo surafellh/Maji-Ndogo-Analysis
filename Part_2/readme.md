@@ -42,6 +42,11 @@ The notebook for Part 2 is divided into **7 sections**, each focusing on differe
      - Queue times average 123 minutes, especially long on Saturdays and mornings.  
      - Rural areas dominate the dataset and need focused infrastructure support.
 
+### Queue Times for Different Days and Hours
+
+This graph illustrates how queue durations vary across different days and hours. It highlights peak congestion periods, especially Saturdays and early mornings, and helps guide short-term tanker deployment and long-term tap installation strategies.
+
+![Queue Times Heatmap](images/Part_2_graph.jpg)
 
 
 ---
