@@ -46,7 +46,8 @@ The notebook for Part 2 is divided into **7 sections**, each focusing on differe
 
 This graph illustrates how queue durations vary across different days and hours. It highlights peak congestion periods, especially Saturdays and early mornings, and helps guide short-term tanker deployment and long-term tap installation strategies.
 
-![Queue Times Heatmap](images/Part_2_graph.jpg)
+![Queue Times Heatmap](./Part_2_graph.jpg)
+
 
 
 ---
