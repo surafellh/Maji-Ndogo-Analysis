@@ -43,4 +43,4 @@ The notebook for Part 3 is divided into 4 main sections, each deepening the inve
 ---
 
 📓 **Notebook**  
-You can explore the full SQL workflow here: [Part 3 – Quality & Pollution Assessment Notebook](./Part3_Quality_Pollution_Assessment.ipynb)  
+You can explore the full SQL workflow here: [Part 3 – Queries Notebook](./md_water_services_analysis_part_3.ipynb)  
