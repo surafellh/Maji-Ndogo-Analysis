@@ -8,8 +8,8 @@ The notebook for Part 3 is divided into 4 main sections, each deepening the inve
 - This provided a roadmap for how water quality, visits, and auditor data connect.  
 
 📌 *ERD Reference:*  
-![Entity Relationship Diagram](./erd.png)  
-*(Replace `erd.png` with the actual ERD image file you place in this folder.)*  
+![Entity Relationship Diagram](./Md_water_ERD.png)  
+ 
 
 ---
 
