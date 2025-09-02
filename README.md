@@ -63,10 +63,40 @@ The analysis process combines **SQL querying** with **data storytelling**:
 
 ---
 
-## 📈 Key Insights 
-- **Queue Times** – Shared taps in certain areas have average wait times exceeding 8 hours.  
-- **Quality Issues** – Some wells labeled as “Clean” in the water quality table contain **E. coli contamination**.  
-- **Coverage Gaps** – Specific rural areas show no functional water points within a reasonable travel distance.  
+## 🔑 Key Insights  
+
+Our analysis uncovered critical insights into Maji Ndogo’s water crisis:  
+
+- **Access & Usage**
+  - 43% of citizens rely on **shared taps**, with ~2,000 people often sharing a single tap.  
+  - 31% have taps at home, but **45% are non-functional**, especially in towns like **Amina, rural Amanzi, Akatsi, and Hawassa**.  
+  - 18% use **wells**, yet only **28% are clean**, concentrated in **Hawassa, Kilimani, and Akatsi**.  
+  - The majority of sources are **rural**, highlighting infrastructure gaps outside urban centers.  
+
+- **Queue Times**
+  - Average wait times exceed **120 minutes**, peaking on **Saturdays, mornings, and evenings**.  
+  - In extreme cases, some shared taps showed wait times of **8+ hours**.  
+
+- **Water Quality Issues**
+  - Some wells marked as *“Clean”* were found to contain **E. coli contamination**, revealing critical data quality problems.  
+  - Discrepancies between field surveyor scores and auditor reports highlight the need for **systematic auditing and training**.  
+  - Certain employees consistently reported inaccurate results, suggesting **training gaps or malpractice risks**.  
+
+- **Data-Driven Improvements**
+  - By using **CTEs and views**, we built a systematic auditing process to validate survey data.  
+  - These steps ensured that **water quality assessments are accurate and verifiable**, directly protecting **public health**.  
+
+---
+
+## 🛠 A Practical Plan  
+
+Based on the findings, we transitioned from analysis to **clear, actionable steps**:  
+
+1. **Shared Taps** – Prioritize repairs and expansion in towns like **Bello, Abidjan, and Zuri** to reduce queues to under **30 minutes**, in line with **UN standards**.  
+2. **Wells** – Install **RO filters** for chemical contamination and **UV + RO filters** for biological contamination, while investigating long-term pollution causes.  
+3. **Infrastructure Repairs** – Restore broken systems in towns like **Amina, Lusaka, Zuri, Djenne, and rural Amanzi**, providing immediate impact to thousands.  
+4. **Short-Term Relief** – Deploy **water trucks to river-dependent areas**, beginning with **Sokoto**, while drilling wells for sustainable solutions.  
+5. **Long-Term Strategy** – Expand home tap access where feasible, but focus resources first on **high-impact, scalable interventions**.  
 
 ---
 
