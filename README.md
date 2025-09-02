@@ -15,8 +15,8 @@ The work is divided into **four parts**, each building on the last, moving from 
 |------|-------|------|
 | **Part 1 – Data Exploration & Cleaning** | Understanding database structure, previewing tables, identifying anomalies, and correcting data errors. | [View](./Part%201/) |
 | **Part 2 – Service Performance Analysis** | Measuring service accessibility, reliability, and coverage; identifying bottlenecks. | [View](Part_2) |
-| **Part 3 – Quality & Pollution Assessment** | Analyzing water quality data, contamination patterns, and public health risks. | Coming Soon |
-| **Part 4 – Insights & Recommendations** | Summarizing findings, visualizing trends, and proposing data-backed interventions. | Coming Soon |
+| **Part 3 – Quality & Pollution Assessment** | Analyzing water quality data, contamination patterns, and public health risks. | [View](Part_3) |
+| **Part 4 – Insights & Recommendations** | Summarizing findings, visualizing trends, and proposing data-backed interventions. |[View](Part_4)|
 
 ---
 
